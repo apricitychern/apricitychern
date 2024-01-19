@@ -13,7 +13,7 @@
       <link>https://apricity.github.io/posts/androidterminal-termux/</link>
       <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
       <guid>https://apricity.github.io/posts/androidterminal-termux/</guid>
-      <description>This page need to be updated.&#xA;I will introduce the termux app and describe how to have a true linux environment using proot.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;Install Termux According to the Termux Wiki, now we should install the termux from F-droid, althought we also can install the old version from Goole Play.</description>
+      <description>This page will introduce the Termux app and some usage of it.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;With Termux, you almost can do any things that you can do on Linux when you use Android. However, there are also some difference between them if you learn more about Termux such as file organization, environment variable and so on.</description>
     </item>
   </channel>
 </rss>
