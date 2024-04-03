@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tool on apricity&#39;s blog</title>
+    <title>Tool on apricity&#39;s blog</title>
     <link>https://apricity.github.io/categories/tool/</link>
-    <description>Recent content in tool on apricity&#39;s blog</description>
+    <description>Recent content in Tool on apricity&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 02:02:20 +0800</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>https://apricity.github.io/posts/androidterminal-termux/</link>
       <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
       <guid>https://apricity.github.io/posts/androidterminal-termux/</guid>
-      <description>This page will introduce the Termux app and some usage of it.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;With Termux, you almost can do any things that you can do on Linux when you use Android. However, there are also some difference between them if you learn more about Termux such as file organization, environment variable and so on.</description>
+      <description>I want to have a terminal on my mobile phone and I found the Termux.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;With Termux, you almost can do any things that you can do on Linux when you use Android. However, there are also some difference between them if you learn more about Termux such as file organization, environment variable and so on.</description>
     </item>
   </channel>
 </rss>

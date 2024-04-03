@@ -6,21 +6,21 @@
     <description>Recent content on apricity&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 2024 06:25:50 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 05:11:05 +0800</lastBuildDate>
     <atom:link href="https://apricity.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://apricity.github.io/about/</link>
       <pubDate>Mon, 01 Jan 2024 05:11:05 +0800</pubDate>
       <guid>https://apricity.github.io/about/</guid>
-      <description>Who am I I&amp;rsquo;m a software developer. Due to having developed under various conditions, I have used a lot of program languages.&#xA;I use C/C++, Rust to develop graphic programs, games, server&amp;hellip;&#xA;I use Python, Lua, Shell to finish AI tasks, configure nvim, write automation script&amp;hellip;&#xA;I use Kotlin to program on Android/jvm platform&amp;hellip;&#xA;I use javascript, typescript to develop browser application&amp;hellip;&#xA;But shamfully, I&amp;rsquo;m only skilled in C/C++ and haven&amp;rsquo;t delved deeply into any field.</description>
+      <description>Who am I I&amp;rsquo;m a software developer. Due to having developed under various conditions, I have used a lot of program languages.&#xA;I use C/C++, Rust to develop graphic programs, games, server&amp;hellip;&#xA;I use Python, Lua, Shell to finish AI tasks, configure nvim, write automation script&amp;hellip;&#xA;I use Kotlin to program on Android/jvm platform&amp;hellip;&#xA;I use javascript to develop browser application&amp;hellip;&#xA;But shamfully, I&amp;rsquo;m only skilled in C/C++ and haven&amp;rsquo;t delved deeply into any field.</description>
     </item>
     <item>
       <title>Android Terminal - Termux</title>
       <link>https://apricity.github.io/posts/androidterminal-termux/</link>
       <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
       <guid>https://apricity.github.io/posts/androidterminal-termux/</guid>
-      <description>This page will introduce the Termux app and some usage of it.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;With Termux, you almost can do any things that you can do on Linux when you use Android. However, there are also some difference between them if you learn more about Termux such as file organization, environment variable and so on.</description>
+      <description>I want to have a terminal on my mobile phone and I found the Termux.&#xA;About Termux Termux is an Android terminal emulator and Linux environment application that works directly with no rooting or setup required.&#xA;from Termux Wiki&#xA;With Termux, you almost can do any things that you can do on Linux when you use Android. However, there are also some difference between them if you learn more about Termux such as file organization, environment variable and so on.</description>
     </item>
   </channel>
 </rss>
