@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on apricity&#39;s blog</title>
+    <title>Tags on Log Book of Apricity</title>
     <link>https://apricity.github.io/tags/</link>
-    <description>Recent content in Tags on apricity&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tags on Log Book of Apricity</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 02:02:20 +0800</lastBuildDate>
     <atom:link href="https://apricity.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Terminal</title>
       <link>https://apricity.github.io/tags/terminal/</link>
-      <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://apricity.github.io/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
       <title>Termux</title>
       <link>https://apricity.github.io/tags/termux/</link>
-      <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://apricity.github.io/tags/termux/</guid>
       <description></description>
     </item>
