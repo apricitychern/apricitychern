@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Log Book of Apricity</title>
-    <link>https://apricity.github.io/categories/</link>
+    <link>https://apricitychern.github.io/categories/</link>
     <description>Recent content in Categories on Log Book of Apricity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 2024 02:02:20 +0800</lastBuildDate>
-    <atom:link href="https://apricity.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apricitychern.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Tool</title>
-      <link>https://apricity.github.io/categories/tool/</link>
+      <link>https://apricitychern.github.io/categories/tool/</link>
       <pubDate>Mon, 01 Jan 2024 02:02:20 +0800</pubDate>
-      <guid>https://apricity.github.io/categories/tool/</guid>
+      <guid>https://apricitychern.github.io/categories/tool/</guid>
       <description></description>
     </item>
   </channel>
